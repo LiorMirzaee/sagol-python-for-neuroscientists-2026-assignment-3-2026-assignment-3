@@ -1,6 +1,6 @@
 import pathlib
 
-from hw3_q1 import *
+from hw3_q1.folderIterator import *
 
 
 def test_using_pathlib():

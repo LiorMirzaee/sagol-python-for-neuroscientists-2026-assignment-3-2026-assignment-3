@@ -1,4 +1,4 @@
-from hw3_q2 import *
+from hw3_q2.testtime import *
 
 
 class TestTime:
