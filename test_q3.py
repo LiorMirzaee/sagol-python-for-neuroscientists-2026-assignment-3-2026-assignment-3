@@ -1,4 +1,4 @@
-from hw3_q3 import *
+from hw3_q3.load_data import *
 import numpy as np
 import pathlib
 
